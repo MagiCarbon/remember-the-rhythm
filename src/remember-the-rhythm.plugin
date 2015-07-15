@@ -1,5 +1,5 @@
 [Plugin]
-Loader=python
+Loader=python3
 Module=remember-the-rhythm
 IAge=1
 Name=Remember the Rhythm

@@ -1,4 +1,4 @@
-PLUGIN_PATH=/usr/lib/rhythmbox/plugins/remember-the-rhythm
+PLUGIN_PATH=/usr/lib64/rhythmbox/plugins/remember-the-rhythm
 SCHEMA_PATH=/usr/share/glib-2.0/schemas/
 
 build:
