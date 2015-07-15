@@ -2,28 +2,19 @@
 Remember The Rhythm
 ====================
 
-A plugin for rhythbox to remember last playing song and playback time.
+come from https://github.com/owais/remember-the-rhythm
+
+it's fixed for 64bit Rhythmbox3.
 
 -------------
 Requirements
 -------------
 
-Rhythmbox 2.90 or above
+64bit Rhythmbox 3
 
 -------------
 Installation
 -------------
-
-
-Ubuntu Repository
-~~~~~~~~~~~~~~~~~~
-
-::
-
-    sudo add-apt-repository ppa:loneowais/ppa
-    sudo apt-get update
-    sudo apt-get install remember-the-rhythm
-
 
 From Source
 ~~~~~~~~~~~~
